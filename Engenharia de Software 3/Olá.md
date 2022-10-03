@@ -1,2 +1,1 @@
-# Hello World! :Waving Hand on Microsoft Teams:
-
+# Hello World! 👋
